@@ -1,2 +1,2 @@
-# Background-magic
-changing the background color with an ellipse
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
